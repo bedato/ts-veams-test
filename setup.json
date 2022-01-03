@@ -1,0 +1,22 @@
+{
+  "@veams/generator-veams": {
+    "projectName": "ts veams",
+    "projectType": "static-page-app",
+    "taskRunner": "webpack",
+    "templateEngine": "ssr-mangony-hbs",
+    "server": [],
+    "gruntModules": [],
+    "features": [],
+    "jsLibs": [],
+    "cssLibs": [
+      "include-media"
+    ],
+    "testAndQA": false,
+    "testAndQALibs": [],
+    "veamsPackages": true,
+    "docs": [],
+    "icons": [],
+    "images": [],
+    "cssPostProcessors": []
+  }
+}

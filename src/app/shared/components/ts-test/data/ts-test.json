@@ -1,0 +1,16 @@
+
+{
+	"variations": {
+		"default": {
+			"docs": {
+				"variationName": "Default"
+			},
+			"settings": {
+				"tsTestContextClass": "default",
+				"tsTestClasses": false,
+				"tsTestJsOptions": {}
+			},
+			"content": {}
+		}
+	}
+}

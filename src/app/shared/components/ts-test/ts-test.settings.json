@@ -1,0 +1,17 @@
+
+{
+    "paths": {
+        "scripts": "src/app/shared/components/ts-test/scripts/ts-test",
+        "styles": "src/app/shared/components/ts-test/styles/ts-test"
+    },
+    "scssFiles": [
+        "ts-test.scss"
+    ],
+    "jsFiles": [
+        "ts-test.js"
+    ],
+    "type": "component",
+    "contextData": "ts-test",
+    "layout": "lyt-docs",
+    "publish": true
+}

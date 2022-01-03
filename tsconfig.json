@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "baseUrl": "src/app",
+      "outDir": "./app/",
+      "noImplicitAny": true,
+      "module": "commonjs",
+      "target": "es5",
+      "esModuleInterop": true,
+      "jsx": "react",
+      "allowJs": true,
+      "moduleResolution": "node"
+    }
+  }
